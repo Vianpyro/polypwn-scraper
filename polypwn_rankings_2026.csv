@@ -1,212 +1,201 @@
-rank,user_id,name,points
-1,8,okalamar,223
-2,116,Houssem0x1,151
-3,47,WProulx09,143
-4,222,Devmvrick,137
-5,196,cloclooo0,135
-6,36,JackOrion,131
-7,200,g33kex,129
-8,12,P.S.Y,125
-9,25,Delta025,124
-10,76,Hugh,120
-11,69,ovr,117
-12,173,zepto,113
-13,184,Pico,112
-14,39,ali_ben,111
-15,56,Skye,110
-16,14,Drakota,109
-17,72,Lup,98
-18,91,tabtouche,97
-19,170,dirtyC0wBoy,97
-20,53,AlrikRr,96
-21,85,M-I,94
-22,143,0xsalad,93
-23,68,Hannibal119,91
-24,19,jflabbe,90
-25,57,RobInTheHood,85
-26,92,cacaprout,85
-27,46,KptCheeseWhiz,83
-28,67,rayenskill,79
-29,17,Vianpyro,77
-30,104,alphawolf77,77
-31,189,5klae,76
-32,34,Loyko,74
-33,167,0xTFS,74
-34,58,V1cky,73
-35,132,Cr4cker,71
-36,197,lUI,71
-37,21,euphoria,68
-38,169,Fredd,66
-39,114,Playmaker,64
-40,33,Bayatriss,63
-41,125,els,61
-42,201,L'homme de l'est,60
-43,32,clemclem,58
-44,11,amirat3ilka,57
-45,23,Atlantis11656,57
-46,35,the_biscuit,56
-47,158,Slowship,56
-48,43,najlaa,54
-49,157,Andy,54
-50,178,Lucci,54
-51,118,Tsagueu Kennang Brice Aurel,52
-52,161,CyberSensei🥋,52
-53,174,Hundrick,51
-54,27,Milkiie,50
-55,40,H4dd0ck,50
-56,209,Yoak,50
-57,37,Dukey,49
-58,74,Bling Bling Boy,49
-59,168,LaurentMercier,49
-60,190,bouleaulama30,49
-61,195,maaaaya,49
-62,65,SinisterShadow,47
-63,78,Jeanne,47
-64,80,moi_c_sam,47
-65,181,rasta,47
-66,5,Mary,46
-67,15,leftZ,46
-68,202,PatneDirtt,46
-69,207,WO Xian-Nie,46
-70,63,OliGyat,45
-71,192,Sarah,45
-72,75,ali31415,44
-73,84,pobrillant,44
-74,115,iK,44
-75,127,T1b0ss,44
-76,66,ArnaudGrd,42
-77,109,milou,41
-78,129,paradoxxx,41
-79,194,Izykool,41
-80,208,Cyber Cadet 4,41
-81,176,xif19,40
-82,219,h,40
-83,54,m3ow,39
-84,220,phildragonbleu,39
-85,44,O7,38
-86,77,deraju,38
-87,105,d0rit0s,38
-88,186,Xanto14,37
-89,31,Romz,36
-90,150,mel20,36
-91,71,orty,35
-92,113,👁ω👁💅✨,35
-93,187,Qui4,34
-94,29,lihsng,33
-95,73,DarK.GhosT,33
-96,20,qwertyu0,31
-97,110,elipell,31
-98,151,killian,31
-99,30,BigCheetoh,30
-100,55,Felty8,30
-101,82,AleksTimo,30
-102,175,yanidan,30
-103,211,Cpl Frappier-Smith,30
-104,221,Tomas Navarro,30
-105,83,whoo,29
-106,59,arianne,28
-107,203,littlesquid,28
-108,98,sigmaward,27
-109,99,Anomalie,27
-110,108,Alexnov23,27
-111,188,yassineSatr,27
-112,215,Cyber Cadet 10,27
-113,16,bilElr,26
-114,90,Silence Mayday,26
-115,130,Ainz,26
-116,162,yj,26
-117,10,math142,25
-118,119,Akashic,25
-119,163,Upac,25
-120,185,OptionalKarmotrine,25
-121,64,hmoraga,24
-122,111,oneshot,24
-123,51,manon,23
-124,142,rayan,23
-125,9,Code,22
-126,24,g0rebnz,22
-127,149,KoraFey,22
-128,61,shin703,21
-129,121,talgarr,21
-130,42,FluffyBeanAce,20
-131,159,Seyli,20
-132,179,HollyShort,20
-133,216,Cyber Cadet 11,20
-134,87,RMI78,19
-135,117,brasdail,19
-136,122,broski,19
-137,164,milclip,19
-138,223,YungHC,19
-139,136,Simon Boudreau,18
-140,48,willi34,17
-141,177,harsh11235,17
-142,50,WillDub,16
-143,79,Pantheralord,16
-144,89,Jordane,16
-145,120,carnon,16
-146,18,Aël,15
-147,70,emaintale,15
-148,96,GreatSymphonia,15
-149,141,ExploitMonarch,15
-150,152,ConstantCONTENT,15
-151,182,Adam,15
-152,45,Gazu2k,14
-153,126,Jdevloo,14
-154,144,Fred,14
-155,148,FlemFacey,14
-156,165,Taha,14
-157,183,lynn,14
-158,206,Cyber Cadet 2,14
-159,41,Ichika_Mina,13
-160,62,V,13
-161,124,seekkel,13
-162,155,MrcGmd,13
-163,22,anaislanthier,12
-164,133,KurisuTheDragoon,12
-165,172,Mickunaru,12
-166,217,Cyber Cadet 12,12
-167,94,h4ckrati,11
-168,123,casscass,11
-169,97,O,10
-170,138,lordboussougou,10
-171,210,MCpl Bernier,10
-172,213,Cdt Hitti,10
-173,93,kiusec,9
-174,100,cherrybear,9
-175,147,Hacknail,9
-176,13,Otmama223,8
-177,95,Crow,7
-178,128,Yasmine Amri,7
-179,171,Besher,7
-180,26,Mx04,6
-181,180,mohamedmed,6
-182,107,Langer,5
-183,156,AmelieBazinet,5
-184,60,efournierrobert,3
-185,205,Sgt Abdullaev,3
-186,103,Hero,2
-187,160,zotta212,2
-188,28,Berny,0
-189,52,Thom,0
-190,81,CHM,0
-191,86,branis_nezlioui,0
-192,88,LittleRocks,0
-193,101,JubaH,0
-194,102,fzhshzh,0
-195,112,Shuya,0
-196,131,Ayyubi1193,0
-197,134,riri,0
-198,137,anis,0
-199,139,Valère,0
-200,140,heywan,0
-201,145,leodevuser,0
-202,154,rayanajakane,0
-203,166,feapef,0
-204,191,izu,0
-205,193,Eddy Kongolu Nzabi,0
-206,198,jeanclaude,0
-207,199,code.zilla,0
-208,204,Cadet_Admin,0
-209,212,LCpl Mao,0
-210,214,WO Shen,0
-211,218,0xd3adb33f,0
+rank,user_id,name,team_id,team_name,team_rank,team_points,points
+1,8,okalamar,4,awaken,12,222,222
+2,116,Houssem0x1,69,HEXPLOIT 0xFF,4,295,151
+3,47,WProulx09,14,Hashed Potato,14,219,143
+4,222,Devmvrick,70,Eggsploit::0xDEADBEEF,10,239,137
+5,196,cloclooo0,67,GLADOS,2,312,134
+6,36,JackOrion,9,SpyVsCat5,9,247,131
+7,200,g33kex,67,GLADOS,2,312,129
+8,12,P.S.Y,32,PolyQamspiracy,1,323,125
+9,25,Delta025,12,Confidently Wrong,13,222,124
+10,76,Hugh,18,La Famille Test,7,263,120
+11,69,ovr,32,PolyQamspiracy,1,323,117
+12,173,zepto,57,Poulet Rouge Enjoyers,3,301,113
+13,39,ali_ben,13,Fl4g_Hunt3r5,26,149,111
+14,184,Pico,57,Poulet Rouge Enjoyers,3,301,111
+15,14,Drakota,5,Brouette Rouge,6,286,109
+16,56,Skye,16,The Alcoholic Sabrinas,22,160,109
+17,72,Lup,41,The while(1)s,17,182,98
+18,91,tabtouche,26,ademo(demon) et nos(nosferatu) pnl,5,288,97
+19,170,dirtyC0wBoy,69,HEXPLOIT 0xFF,4,295,97
+20,53,AlrikRr,15,SummerJedi,27,139,96
+21,85,M-I,25,Couscous et Plantain,21,162,94
+22,143,0xsalad,19,Teamskill,16,183,92
+23,68,Hannibal119,35,CroquETS Formelles,23,156,91
+24,19,jflabbe,8,Fort Dommage,11,230,89
+25,57,RobInTheHood,7,swørdfish,8,259,85
+26,92,cacaprout,26,ademo(demon) et nos(nosferatu) pnl,5,288,85
+27,46,KptCheeseWhiz,5,Brouette Rouge,6,286,83
+28,67,rayenskill,19,Teamskill,16,183,79
+29,17,Vianpyro,22,PoulETS,32,124,77
+30,104,alphawolf77,9,SpyVsCat5,9,247,76
+31,189,5klae,58,Vite su'l Python,33,124,76
+32,34,Loyko,50,Y'a une limite de charactères ?,20,164,74
+33,167,0xTFS,70,Eggsploit::0xDEADBEEF,10,239,74
+34,58,V1cky,54,FishnETS,19,169,73
+35,229,!ntrus'!on,79,void();,43,72,72
+36,132,Cr4cker,43,Apér0verflow,24,153,71
+37,197,lUI,40,Mr. Robot,15,188,71
+38,21,euphoria,7,swørdfish,8,259,67
+39,169,Fredd,8,Fort Dommage,11,230,66
+40,114,Playmaker,32,PolyQamspiracy,1,323,64
+41,33,Bayatriss,8,Fort Dommage,11,230,63
+42,125,els,50,Y'a une limite de charactères ?,20,164,61
+43,201,L'homme de l'est,26,ademo(demon) et nos(nosferatu) pnl,5,288,60
+44,32,clemclem,11,Heated Hackers,18,179,58
+45,11,amirat3ilka,39,Hackaholics,30,131,57
+46,23,Atlantis11656,7,swørdfish,8,259,57
+47,158,Slowship,42,ZeroDayZ,44,66,56
+48,35,the_biscuit,11,Heated Hackers,18,179,55
+49,157,Andy,51,Full Stack Attack,41,86,54
+50,178,Lucci,48,Hydrogène Actinium Potassium,31,127,54
+51,43,najlaa,74,Miau in Spanish,35,116,53
+52,118,Tsagueu Kennang Brice Aurel,12,Confidently Wrong,13,222,52
+53,161,CyberSensei🥋,37,"cowsay ""bustin' n' flaggin'""",28,139,52
+54,174,Hundrick,46,My Fellas : Infinity War,39,99,51
+55,27,Milkiie,7,swørdfish,8,259,50
+56,40,H4dd0ck,5,Brouette Rouge,6,286,50
+57,209,Yoak,40,Mr. Robot,15,188,50
+58,37,Dukey,18,La Famille Test,7,263,49
+59,190,bouleaulama30,47,batatHACK,34,121,49
+60,195,maaaaya,67,GLADOS,2,312,49
+61,74,Bling Bling Boy,18,La Famille Test,7,263,48
+62,168,LaurentMercier,72,/etc/ld.so.preload,25,153,48
+63,65,SinisterShadow,14,Hashed Potato,14,219,47
+64,80,moi_c_sam,22,PoulETS,32,124,47
+65,5,Mary,18,La Famille Test,7,263,46
+66,15,leftZ,54,FishnETS,19,169,46
+67,78,Jeanne,41,The while(1)s,17,182,46
+68,181,rasta,56,Monteiro_Enjoyers,29,137,46
+69,202,PatneDirtt,26,ademo(demon) et nos(nosferatu) pnl,5,288,46
+70,207,WO Xian-Nie,62,CFB Gagetown,47,56,46
+71,63,OliGyat,10,passe moi le briquETS,37,99,45
+72,192,Sarah,72,/etc/ld.so.preload,25,153,45
+73,75,ali31415,5,Brouette Rouge,6,286,44
+74,84,pobrillant,35,CroquETS Formelles,23,156,44
+75,115,iK,47,batatHACK,34,121,44
+76,127,T1b0ss,43,Apér0verflow,24,153,44
+77,66,ArnaudGrd,25,Couscous et Plantain,21,162,42
+78,109,milou,40,Mr. Robot,15,188,41
+79,129,paradoxxx,39,Hackaholics,30,131,41
+80,194,Izykool,44,511_Kinderheim,45,66,41
+81,176,xif19,57,Poulet Rouge Enjoyers,3,301,40
+82,219,h,72,/etc/ld.so.preload,25,153,40
+83,54,m3ow,37,"cowsay ""bustin' n' flaggin'""",28,139,39
+84,44,O7,45,mkdir KGB,36,101,38
+85,77,deraju,41,The while(1)s,17,182,38
+86,105,d0rit0s,43,Apér0verflow,24,153,38
+87,220,phildragonbleu,48,Hydrogène Actinium Potassium,31,127,38
+88,186,Xanto14,57,Poulet Rouge Enjoyers,3,301,37
+89,31,Romz,11,Heated Hackers,18,179,36
+90,150,mel20,45,mkdir KGB,36,101,36
+91,71,orty,54,FishnETS,19,169,35
+92,113,👁ω👁💅✨,33,ETSpadøn,38,99,34
+93,187,Qui4,56,Monteiro_Enjoyers,29,137,34
+94,29,lihsng,10,passe moi le briquETS,37,99,33
+95,73,DarK.GhosT,12,Confidently Wrong,13,222,33
+96,20,qwertyu0,9,SpyVsCat5,9,247,31
+97,110,elipell,30,Free food,50,52,31
+98,151,killian,74,Miau in Spanish,35,116,31
+99,30,BigCheetoh,11,Heated Hackers,18,179,30
+100,175,yanidan,56,Monteiro_Enjoyers,29,137,30
+101,221,Tomas Navarro,69,HEXPLOIT 0xFF,4,295,30
+102,55,Felty8,14,Hashed Potato,14,219,29
+103,82,AleksTimo,37,"cowsay ""bustin' n' flaggin'""",28,139,29
+104,83,whoo,15,SummerJedi,27,139,29
+105,59,arianne,16,The Alcoholic Sabrinas,22,160,28
+106,203,littlesquid,70,Eggsploit::0xDEADBEEF,10,239,28
+107,211,Cpl Frappier-Smith,63,CFB Valcartier,52,39,28
+108,98,sigmaward,48,Hydrogène Actinium Potassium,31,127,27
+109,99,Anomalie,58,Vite su'l Python,33,124,27
+110,188,yassineSatr,56,Monteiro_Enjoyers,29,137,27
+111,90,Silence Mayday,27,Kowalski 🐧🥷,42,72,26
+112,108,Alexnov23,40,Mr. Robot,15,188,26
+113,130,Ainz,39,Hackaholics,30,131,26
+114,162,yj,52,noname,53,26,26
+115,10,math142,76,LesSolitaires,46,59,25
+116,16,bilElr,6,padronum,40,93,25
+117,119,Akashic,33,ETSpadøn,38,99,25
+118,163,Upac,27,Kowalski 🐧🥷,42,72,25
+119,228,Cami,74,Miau in Spanish,35,116,25
+120,64,hmoraga,6,padronum,40,93,24
+121,142,rayan,13,Fl4g_Hunt3r5,26,149,23
+122,185,OptionalKarmotrine,20,UND3RD0GS,49,52,23
+123,9,Code,6,padronum,40,93,22
+124,51,manon,6,padronum,40,93,22
+125,111,oneshot,46,My Fellas : Infinity War,39,99,22
+126,149,KoraFey,33,ETSpadøn,38,99,22
+127,24,g0rebnz,10,passe moi le briquETS,37,99,21
+128,61,shin703,58,Vite su'l Python,33,124,21
+129,121,talgarr,35,CroquETS Formelles,23,156,21
+130,42,FluffyBeanAce,16,The Alcoholic Sabrinas,22,160,20
+131,159,Seyli,53,Test,48,53,20
+132,179,HollyShort,72,/etc/ld.so.preload,25,153,20
+133,87,RMI78,37,"cowsay ""bustin' n' flaggin'""",28,139,19
+134,117,brasdail,53,Test,48,53,19
+135,122,broski,36,Peak Penguins,51,46,19
+136,164,milclip,76,LesSolitaires,46,59,19
+137,223,YungHC,45,mkdir KGB,36,101,19
+138,136,Simon Boudreau,33,ETSpadøn,38,99,18
+139,48,willi34,32,PolyQamspiracy,1,323,17
+140,177,harsh11235,69,HEXPLOIT 0xFF,4,295,17
+141,50,WillDub,36,Peak Penguins,51,46,16
+142,79,Pantheralord,20,UND3RD0GS,49,52,16
+143,89,Jordane,25,Couscous et Plantain,21,162,16
+144,18,Aël,27,Kowalski 🐧🥷,42,72,15
+145,70,emaintale,47,batatHACK,34,121,15
+146,96,GreatSymphonia,54,FishnETS,19,169,15
+147,120,carnon,76,LesSolitaires,46,59,15
+148,152,ConstantCONTENT,50,Y'a une limite de charactères ?,20,164,15
+149,182,Adam,13,Fl4g_Hunt3r5,26,149,15
+150,45,Gazu2k,15,SummerJedi,27,139,14
+151,126,Jdevloo,30,Free food,50,52,14
+152,144,Fred,51,Full Stack Attack,41,86,14
+153,148,FlemFacey,46,My Fellas : Infinity War,39,99,14
+154,165,Taha,53,Test,48,53,14
+155,183,lynn,50,Y'a une limite de charactères ?,20,164,14
+156,41,Ichika_Mina,12,Confidently Wrong,13,222,13
+157,62,V,20,UND3RD0GS,49,52,13
+158,124,seekkel,47,batatHACK,34,121,13
+159,141,ExploitMonarch,44,511_Kinderheim,45,66,13
+160,155,MrcGmd,51,Full Stack Attack,41,86,13
+161,22,anaislanthier,8,Fort Dommage,11,230,12
+162,133,KurisuTheDragoon,44,511_Kinderheim,45,66,12
+163,172,Mickunaru,46,My Fellas : Infinity War,39,99,12
+164,94,h4ckrati,28,S3CURE,54,22,11
+165,123,casscass,36,Peak Penguins,51,46,11
+166,97,O,42,ZeroDayZ,44,66,10
+167,138,lordboussougou,25,Couscous et Plantain,21,162,10
+168,213,Cdt Hitti,62,CFB Gagetown,47,56,10
+169,93,kiusec,28,S3CURE,54,22,9
+170,100,cherrybear,9,SpyVsCat5,9,247,9
+171,13,Otmama223,45,mkdir KGB,36,101,8
+172,147,Hacknail,48,Hydrogène Actinium Potassium,31,127,8
+173,210,MCpl Bernier,63,CFB Valcartier,52,39,8
+174,128,Yasmine Amri,39,Hackaholics,30,131,7
+175,171,Besher,74,Miau in Spanish,35,116,7
+176,26,Mx04,19,Teamskill,16,183,6
+177,95,Crow,27,Kowalski 🐧🥷,42,72,6
+178,180,mohamedmed,19,Teamskill,16,183,6
+179,107,Langer,30,Free food,50,52,5
+180,156,AmelieBazinet,51,Full Stack Attack,41,86,5
+181,60,efournierrobert,16,The Alcoholic Sabrinas,22,160,3
+182,205,Sgt Abdullaev,63,CFB Valcartier,52,39,3
+183,103,Hero,30,Free food,50,52,2
+184,160,zotta212,28,S3CURE,54,22,2
+185,52,Thom,14,Hashed Potato,14,219,0
+186,81,CHM,23,Équipe sans équipe,56,0,0
+187,102,fzhshzh,29,fzhshzh,57,0,0
+188,131,Ayyubi1193,42,ZeroDayZ,44,66,0
+189,139,Valère,71,Fromage,61,0,0
+190,140,heywan,76,LesSolitaires,46,59,0
+191,154,rayanajakane,22,PoulETS,32,124,0
+192,191,izu,58,Vite su'l Python,33,124,0
+193,193,Eddy Kongolu Nzabi,59,lightframe,58,0,0
+194,198,jeanclaude,60,jeanclaude,59,0,0
+195,204,Cadet_Admin,82,2806 Master Yoda,64,0,0
+196,212,LCpl Mao,63,CFB Valcartier,52,39,0
+197,214,WO Shen,62,CFB Gagetown,47,56,0
+198,218,0xd3adb33f,66,h1r@n0_n1nj45,60,0,0
+199,225,Yxène,75,Yxène,62,0,0
+200,234,seneque,81,Seneque,63,0,0
